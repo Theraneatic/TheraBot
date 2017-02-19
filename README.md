@@ -11,5 +11,5 @@ and enabling developer mode, right clicking on your name, and clicking copy ID. 
   "token":"<token>",
   "id":"<id>"
 }
-Once this is complete, name the file information.json and put it in the same folder the bot is in. Then, run it through node. YOU MUST HAVE AT LEAST NODE 6.0.0 OR HIGHER AND THE MOST CURRENT VERSION OF DISCORD.JS TO USE THIS. Node can be installed through here, https://nodejs.org/en/ (I recommend the most current version) and Discord.js can be installed by using npm i discord.js after node has finished installing. Then, type in node and the path to this bot, and the bot should be operational.
+Once this is complete, name the file information.json and put it in the same folder the bot is in. Then, run it through node. YOU MUST HAVE AT LEAST NODE 6.0.0 OR HIGHER AND THE MOST CURRENT VERSION OF DISCORD.JS TO USE THIS. Node can be installed through here, https://nodejs.org/en/ (I recommend the most current version) and Discord.js can be installed by using npm i discord.js after node has finished installing. Also download performance-now using the same method. Then, type in node and the path to this bot, and the bot should be operational.
 Thank you for using TheraBot. 
