@@ -10,6 +10,7 @@ and enabling developer mode, right clicking on your name, and clicking copy ID. 
 
 {
   "token":"yourtoken",
+
   "id":"yourid"
 }
 
